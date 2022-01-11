@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299.99 100"><defs><style>.cls-1{fill:#acd4e2;}.cls-2{fill:#218d9f;}.cls-3{fill:#f3a753;}.cls-4{fill:#fff;}.cls-5{fill:#d76a29;}.cls-6{font-size:12px;fill:#231f20;font-family:MyriadPro-Regular, Myriad Pro;}.cls-7{letter-spacing:-0.01em;}</style></defs><title>raser</title><g id="_ÎÓÈ_2" data-name="—ÎÓÈ_2"><rect class="cls-1" x="60" width="60" height="100"/><rect class="cls-2" x="119.99" width="60" height="100"/><rect class="cls-3" x="179.99" width="60" height="100"/><rect class="cls-4" width="60" height="100"/><rect class="cls-5" x="239.99" width="60" height="100"/><text class="cls-6" transform="translate(251.05 88)">D76A29</text><text class="cls-6" transform="translate(192.53 88)">F3A753</text><text class="cls-6" transform="translate(132.27 88)">218D9F</text><text class="cls-6" transform="translate(69.05 88)"><tspan class="cls-7">A</tspan><tspan x="7.16" y="0">CD4E2</tspan></text><text class="cls-6" transform="translate(10.96 88)">FFFFFF</text></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 100" style="enable-background:new 0 0 300 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#ACD4E2;}
+	.st1{fill:#218D9F;}
+	.st2{fill:#F3A753;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#D76A29;}
+	.st5{fill:#231F20;}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{font-size:12px;}
+</style>
+<title>raser</title>
+<g id="_ÎÓÈ_2">
+	<rect x="60" class="st0" width="60" height="100"/>
+	<rect x="120" class="st1" width="60" height="100"/>
+	<rect x="180" class="st2" width="60" height="100"/>
+	<rect class="st3" width="60" height="100"/>
+	<rect x="240" class="st4" width="60" height="100"/>
+	<text transform="matrix(1 0 0 1 251.05 88)" class="st5 st6 st7">D76A29</text>
+	<text transform="matrix(1 0 0 1 192.53 88)" class="st5 st6 st7">F3A753</text>
+	<text transform="matrix(1 0 0 1 132.27 88)" class="st5 st6 st7">218D9F</text>
+	<text transform="matrix(1 0 0 1 69.05 88)" class="st5 st6 st7">A</text>
+	<text transform="matrix(1 0 0 1 76.21 88)" class="st5 st6 st7">CD4E2</text>
+	<text transform="matrix(1 0 0 1 10.96 88)" class="st5 st6 st7">FFFFFF</text>
+</g>
+</svg>

@@ -43,7 +43,10 @@ body{
 
 .activeMenu{
     display: none;
+
 }
+
+
 
 .footer{
     position: fixed;
@@ -67,4 +70,3 @@ body{
     padding-left: 8px;
 }
 
-  

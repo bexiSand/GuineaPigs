@@ -82,6 +82,21 @@ color: #D76A29;
     top: 133px;
 
 }
+/* slide show */
+
+#slideshow{
+    position: absolute;
+    width: 100vw;
+    left: 0px;
+
+}
+
+.slide{
+    margin-top: 133px;
+    max-width: 100%;
+}
+
+/* end slide show */
 
 /*sort.html*/
 
@@ -97,7 +112,7 @@ color: #D76A29;
 .textBoxBr{
     position: absolute;
     width: 920px;
-    height: 323px;
+    height: 500px;
     left: 116px;
     top: 403px;
 

@@ -56,6 +56,10 @@ h1{
     top: 7px;
 }
 
+.activeMenu{
+    display: none;
+}
+
 #menu{
     position: absolute;
     width: 140px;
@@ -88,15 +92,20 @@ h1{
 
 /* end navbar*/
 
-.indexImg{
+/* slide show */
+#slideshow{
     position: absolute;
     width: 100vw;
     left: 0px;
-    top: 260px;
 
-    background: url(index.jpg);
 }
 
+.slide{
+    margin-top: 260px;
+    max-width: 100%;
+}
+
+/* end slide show*/
 
 h2{
     font-style: bold;
@@ -125,7 +134,7 @@ p{
 .textBoxBr{
     position: absolute;
     width: 335px;
-    height: 442px;
+    height: 800px;
     left: 20px;
     top: 198px;
 }
